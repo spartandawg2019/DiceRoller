@@ -1,0 +1,15 @@
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.csproj.AssemblyReference.cache
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.AssemblyInfoInputs.cache
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.AssemblyInfo.cs
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/bin/Debug/net7.0/Dice Roller Objective  Random Numbers
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/bin/Debug/net7.0/Dice Roller Objective  Random Numbers.deps.json
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/bin/Debug/net7.0/Dice Roller Objective  Random Numbers.runtimeconfig.json
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/bin/Debug/net7.0/Dice Roller Objective  Random Numbers.dll
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/bin/Debug/net7.0/Dice Roller Objective  Random Numbers.pdb
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.dll
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/refint/Dice Roller Objective  Random Numbers.dll
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.pdb
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/Dice Roller Objective  Random Numbers.genruntimeconfig.cache
+/Users/tomk/Projects/Dice Roller Objective  Random Numbers/obj/Debug/net7.0/ref/Dice Roller Objective  Random Numbers.dll
